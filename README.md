@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeshV2001
-- 👀 I’m interested in Python,Machine Learning ,Data Science
+- 👀 Python,Machine Learning ,Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at insta @pythonprogramming_
